@@ -1,2 +1,1 @@
-# coronadorepositorio-henry
-este repositorio es un ejercicio del precurse de Henry
+este proyecto es una pruba de como crear y clonarlo un repositorio desde github a mi escritorio local
